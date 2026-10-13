@@ -1,0 +1,15 @@
+name: FreeMarket
+version: '@project.version@'
+main: com.freemarket.market.FreeMarket
+api-version: '26.3'
+description: 支持账户余额、跨维度市场、延迟取货的玩家自由市场
+authors: [FreeMarket]
+permissions:
+  freemarket.use: {default: true, description: 使用自由市场}
+  freemarket.sell: {default: true, description: 上架和管理自己的商品}
+  freemarket.buy: {default: true, description: 购买商品}
+  freemarket.favorite: {default: true, description: 使用收藏夹}
+  freemarket.limit.vip: {default: false, description: 使用贵宾挂单上限}
+  freemarket.limit.mvp: {default: false, description: 使用高级贵宾挂单上限}
+  freemarket.bypass.limit: {default: false, description: 无视活跃挂单数量上限}
+  freemarket.bypass.blacklist: {default: false, description: 无视上架黑名单}

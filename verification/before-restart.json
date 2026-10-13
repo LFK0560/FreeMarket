@@ -1,0 +1,207 @@
+{
+  "accounts": [
+    {
+      "name": "Buyer",
+      "balance": 99650,
+      "reserved_credit": 0
+    },
+    {
+      "name": "Other",
+      "balance": 9325,
+      "reserved_credit": 0
+    },
+    {
+      "name": "Owner",
+      "balance": 80606,
+      "reserved_credit": 0
+    },
+    {
+      "name": "Seller",
+      "balance": 974,
+      "reserved_credit": 0
+    }
+  ],
+  "markets": [
+    {
+      "owner_name": "Owner",
+      "tax_bps": 500,
+      "tax_balance": 45,
+      "status": "ACTIVE"
+    }
+  ],
+  "chunks": [
+    {
+      "world_name": "world_smoke",
+      "environment": "NORMAL",
+      "x": 0,
+      "z": 0
+    },
+    {
+      "world_name": "world_smoke_nether",
+      "environment": "NETHER",
+      "x": 10,
+      "z": 10
+    },
+    {
+      "world_name": "world_smoke_the_end",
+      "environment": "THE_END",
+      "x": 0,
+      "z": 0
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "status": "SOLD",
+      "original": 32,
+      "remaining": 0,
+      "sold": 32,
+      "price": 25,
+      "income": 760,
+      "item_key": "minecraft:cobblestone@7242ecf12f765fa76c1a8ffe635135440be1a61938f4088df47594cefc4558b0"
+    },
+    {
+      "id": 2,
+      "status": "CANCELLED",
+      "original": 1,
+      "remaining": 0,
+      "sold": 0,
+      "price": 100,
+      "income": 0,
+      "item_key": "minecraft:diamond_sword@049e4be7cd3d7062fac5f421e2d6f6b755433aee8a22393069ca499e5117cf29"
+    },
+    {
+      "id": 3,
+      "status": "SOLD",
+      "original": 1,
+      "remaining": 0,
+      "sold": 1,
+      "price": 200,
+      "income": 190,
+      "item_key": "minecraft:diamond_sword@6296616cabbae1cdd821c19e115f5700a25c36e3de8e5902c25d57a32f5f6493"
+    },
+    {
+      "id": 4,
+      "status": "SOLD",
+      "original": 1,
+      "remaining": 0,
+      "sold": 1,
+      "price": 25,
+      "income": 24,
+      "item_key": "minecraft:cobblestone@7242ecf12f765fa76c1a8ffe635135440be1a61938f4088df47594cefc4558b0"
+    },
+    {
+      "id": 5,
+      "status": "ACTIVE",
+      "original": 1,
+      "remaining": 1,
+      "sold": 0,
+      "price": 100,
+      "income": 0,
+      "item_key": "minecraft:diamond_sword@049e4be7cd3d7062fac5f421e2d6f6b755433aee8a22393069ca499e5117cf29"
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "amount": 4,
+      "reason": "PURCHASE",
+      "status": "CLAIMED",
+      "ready_at": 1791873082046
+    },
+    {
+      "id": 2,
+      "amount": 1,
+      "reason": "PURCHASE",
+      "status": "CLAIMED",
+      "ready_at": 1791873500999
+    },
+    {
+      "id": 3,
+      "amount": 27,
+      "reason": "PURCHASE",
+      "status": "CLAIMED",
+      "ready_at": 1791873570398
+    },
+    {
+      "id": 4,
+      "amount": 1,
+      "reason": "PURCHASE",
+      "status": "CLAIMED",
+      "ready_at": 1791873745721
+    },
+    {
+      "id": 5,
+      "amount": 1,
+      "reason": "CANCELLED",
+      "status": "CLAIMED",
+      "ready_at": 1791873838513
+    },
+    {
+      "id": 6,
+      "amount": 1,
+      "reason": "PURCHASE",
+      "status": "AVAILABLE",
+      "ready_at": 1791874092515
+    }
+  ],
+  "trades": [
+    {
+      "id": 1,
+      "listing_id": 1,
+      "amount": 4,
+      "total": 100,
+      "tax": 5
+    },
+    {
+      "id": 2,
+      "listing_id": 1,
+      "amount": 1,
+      "total": 25,
+      "tax": 1
+    },
+    {
+      "id": 3,
+      "listing_id": 1,
+      "amount": 27,
+      "total": 675,
+      "tax": 34
+    },
+    {
+      "id": 4,
+      "listing_id": 3,
+      "amount": 1,
+      "total": 200,
+      "tax": 10
+    },
+    {
+      "id": 5,
+      "listing_id": 4,
+      "amount": 1,
+      "total": 25,
+      "tax": 1
+    }
+  ],
+  "operations": [
+    {
+      "kind": "CLAIM",
+      "status": "DONE",
+      "count": 5
+    },
+    {
+      "kind": "DEPOSIT",
+      "status": "DONE",
+      "count": 3
+    },
+    {
+      "kind": "SELL",
+      "status": "DONE",
+      "count": 4
+    },
+    {
+      "kind": "WITHDRAW",
+      "status": "DONE",
+      "count": 2
+    }
+  ]
+}

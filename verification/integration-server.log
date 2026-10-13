@@ -1,0 +1,335 @@
+[14:21:56] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+10-LTS; Amazon.com Inc. Corretto-25.0.4.10.1) on Mac OS X 15.8.1 (aarch64)
+[14:21:56] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-178-main@03226a5 (2026-10-12T20:42:19Z) for Minecraft 26.3
+[14:21:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:21:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[14:21:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - FreeMarket (1.0.0), ViaBackwards (5.12.1), ViaVersion (5.12.1)
+[14:21:59] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:21:59] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[14:22:00] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 299.2ms
+[14:22:00] [Worker-Main-1/INFO]: Loaded 1866 advancements
+[14:22:01] [Server thread/INFO]: Starting minecraft server version 26.3
+[14:22:01] [Server thread/INFO]: Loading properties
+[14:22:01] [Server thread/INFO]: This server is running Paper version 26.3-178-main@03226a5 (2026-10-12T20:42:19Z) (Implementing API version 26.3.build.178-stable)
+[14:22:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:22:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:22:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:22:01] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[14:22:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:22:01] [Server thread/INFO]: Generating keypair
+[14:22:01] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25589
+[14:22:02] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[14:22:02] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[14:22:02] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.12.1
+[14:22:02] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.1 is now loaded. Registering protocol transformers and injecting...
+[14:22:02] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:22:02] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:22:02] [Server thread/INFO]: [FreeMarket] Loading server plugin FreeMarket v1.0.0
+[14:22:02] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.12.1
+[14:22:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:22:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:22:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:22:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:22:02] [Server thread/INFO]: Preparing level "world_smoke"
+[14:22:02] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[14:22:02] [Server thread/INFO]: Prepared spawn area in 0 ms
+[14:22:02] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[14:22:02] [Server thread/INFO]: Prepared spawn area in 0 ms
+[14:22:02] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[14:22:02] [Server thread/INFO]: Prepared spawn area in 0 ms
+[14:22:02] [Server thread/INFO]: Done preparing level "world_smoke" (0.234s)
+[14:22:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.1
+[14:22:03] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
+[14:22:03] [Server thread/INFO]: [FreeMarket] Enabling FreeMarket v1.0.0
+[14:22:03] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1
+[14:22:03] [Server thread/INFO]: [spark] Starting background profiler...
+[14:22:04] [Server thread/INFO]: Starting remote control listener
+[14:22:04] [Server thread/INFO]: Thread RCON Listener started
+[14:22:04] [Server thread/INFO]: RCON running on 127.0.0.1:25590
+[14:22:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:overworld
+[14:22:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:the_nether
+[14:22:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:the_end
+[14:22:04] [Server thread/INFO]: Running delayed init tasks
+[14:22:04] [Server thread/INFO]: [FreeMarket] 自由市场 1.0.0 已加载，数据库与市场区域准备完成。
+[14:22:04] [Server thread/INFO]: Done (8.505s)! For help, type "help"
+[14:22:04] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[14:22:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:50] [Server thread/INFO]: System chat: [Rcon: Marked chunk [0, 0] in minecraft:overworld to be force loaded]
+[14:22:50] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Successfully filled 18 block(s)]
+[14:22:51] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Successfully filled 1235 block(s)]
+[14:22:51] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Set the world spawn point to 8, 65, 8 [0.0, 0.0] in minecraft:overworld]
+[14:22:51] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Marked chunk [10, 10] in minecraft:the_nether to be force loaded]
+[14:22:51] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Successfully filled 256 block(s)]
+[14:22:51] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: System chat: [Rcon: Successfully filled 1277 block(s)]
+[14:22:52] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:52] [User Authenticator #0/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:22:52] [Server thread/INFO]: Disconnecting Owner (/127.0.0.1:54636): You are not whitelisted on this server!
+[14:22:52] [Server thread/INFO]: Owner (/127.0.0.1:54636) lost connection: You are not whitelisted on this server!
+[14:23:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:34] [Server thread/INFO]: System chat: [Rcon: Whitelist is now turned off]
+[14:23:34] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:34] [User Authenticator #1/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:23:34] [Server thread/INFO]: System chat: Owner joined the game
+[14:23:34] [Server thread/INFO]: Owner[/127.0.0.1:54705] logged in with entity id 9 at ([minecraft:overworld]12.5, 82.0, 4.5)
+[14:23:34] [User Authenticator #2/INFO]: UUID of player Seller is 723392f8-b787-326f-9daa-7f0556e97fb2
+[14:23:34] [Server thread/INFO]: System chat: Seller joined the game
+[14:23:34] [Server thread/INFO]: Seller[/127.0.0.1:54706] logged in with entity id 10 at ([minecraft:overworld]1.5, 87.0, -1.5)
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [Server thread/WARN]: Seller moved too quickly! 1.5,87.0,-1.5
+[14:23:34] [User Authenticator #3/INFO]: UUID of player Buyer is 95c805de-11ca-35c1-b023-d2cc3a373952
+[14:23:35] [Server thread/INFO]: System chat: Buyer joined the game
+[14:23:35] [Server thread/INFO]: Buyer[/127.0.0.1:54707] logged in with entity id 11 at ([minecraft:overworld]7.5, 81.0, 13.5)
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [Server thread/WARN]: Buyer moved too quickly! 7.5,81.0,13.5
+[14:23:35] [User Authenticator #4/INFO]: UUID of player Other is 1316d40c-a081-306e-9e27-70f5cb544c20
+[14:23:35] [Server thread/INFO]: System chat: Other joined the game
+[14:23:35] [Server thread/INFO]: Other[/127.0.0.1:54708] logged in with entity id 12 at ([minecraft:overworld]1.5, 90.0, 15.5)
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/WARN]: Other moved too quickly! 1.5,90.0,15.5
+[14:23:35] [Server thread/INFO]: Owner lost connection: Invalid move player packet received
+[14:23:35] [Server thread/INFO]: System chat: Owner left the game
+[14:23:36] [Server thread/INFO]: Seller lost connection: Invalid move player packet received
+[14:23:36] [Server thread/INFO]: System chat: Seller left the game
+[14:23:36] [Server thread/INFO]: Buyer lost connection: Invalid move player packet received
+[14:23:36] [Server thread/INFO]: System chat: Buyer left the game
+[14:23:36] [Server thread/INFO]: Other lost connection: Invalid move player packet received
+[14:23:36] [Server thread/INFO]: System chat: Other left the game
+[14:24:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:05] [RCON Client /127.0.0.1 #10/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:05] [RCON Client /127.0.0.1 #11/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:05] [RCON Client /127.0.0.1 #12/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:05] [RCON Client /127.0.0.1 #13/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:54] [User Authenticator #5/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:24:54] [Server thread/INFO]: System chat: Owner joined the game
+[14:24:54] [Server thread/INFO]: Owner[/127.0.0.1:54853] logged in with entity id 69 at ([minecraft:overworld]12.5, 82.0, 4.5)
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:54] [Server thread/WARN]: Owner moved too quickly! 12.5,82.0,4.5
+[14:24:55] [Server thread/INFO]: Owner lost connection: Invalid move player packet received
+[14:24:55] [Server thread/INFO]: System chat: Owner left the game
+[14:25:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:19] [RCON Client /127.0.0.1 #14/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:06] [User Authenticator #6/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:26:06] [Server thread/INFO]: System chat: Owner joined the game
+[14:26:06] [Server thread/INFO]: Owner[/127.0.0.1:55038] logged in with entity id 77 at ([minecraft:overworld]12.5, 82.0, 4.5)
+[14:26:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:07] [Server thread/INFO]: System chat: [Rcon: Teleported Owner to 8.500000, 65.000000, 8.500000]
+[14:26:07] [RCON Client /127.0.0.1 #15/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:07] [Server thread/INFO]: System chat: Owner has made the advancement [Diamonds!]
+[14:26:07] [Server thread/INFO]: System chat: [Rcon: Gave 1000 [Diamond] to Owner]
+[14:26:07] [RCON Client /127.0.0.1 #16/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:07] [Server thread/INFO]: Owner issued server command: /market
+[14:26:08] [Server thread/INFO]: Owner lost connection: Invalid move player packet received
+[14:26:08] [Server thread/INFO]: System chat: Owner left the game
+[14:27:41] [User Authenticator #7/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:27:41] [Server thread/INFO]: System chat: Owner joined the game
+[14:27:41] [Server thread/INFO]: Owner[/127.0.0.1:55215] logged in with entity id 105 at ([minecraft:overworld]8.5, 65.0, 8.5)
+[14:27:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:41] [Server thread/INFO]: System chat: [Rcon: Teleported Owner to 8.500000, 65.000000, 8.500000]
+[14:27:41] [RCON Client /127.0.0.1 #17/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:41] [Server thread/INFO]: Owner issued server command: /market
+[14:27:42] [Server thread/INFO]: Owner lost connection: Invalid move player packet received
+[14:27:42] [Server thread/INFO]: System chat: Owner left the game
+[14:29:28] [User Authenticator #8/INFO]: UUID of player Owner is e07dc330-cb9f-34d0-b06c-7bb7282b33c4
+[14:29:28] [Server thread/INFO]: System chat: Owner joined the game
+[14:29:28] [Server thread/INFO]: Owner[/127.0.0.1:55446] logged in with entity id 113 at ([minecraft:overworld]8.5, 65.0, 8.5)
+[14:29:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:28] [Server thread/INFO]: System chat: [Rcon: Teleported Owner to 8.500000, 65.000000, 8.500000]
+[14:29:28] [RCON Client /127.0.0.1 #18/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:28] [Server thread/INFO]: Owner issued server command: /market
+[14:29:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:30] [Server thread/INFO]: System chat: Owner has made the advancement [We Need to Go Deeper]
+[14:29:30] [Server thread/INFO]: System chat: [Rcon: Teleported Owner to 168.500000, 70.000000, 168.500000]
+[14:29:30] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:30] [Server thread/INFO]: Owner issued server command: /market
+[14:30:23] [User Authenticator #9/INFO]: UUID of player Seller is 723392f8-b787-326f-9daa-7f0556e97fb2
+[14:30:23] [Server thread/INFO]: System chat: Seller joined the game
+[14:30:23] [Server thread/INFO]: Seller[/127.0.0.1:55617] logged in with entity id 135 at ([minecraft:overworld]1.5, 87.0, -1.5)
+[14:30:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:23] [Server thread/INFO]: System chat: [Rcon: Teleported Seller to 8.500000, 65.000000, 8.500000]
+[14:30:23] [RCON Client /127.0.0.1 #20/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:23] [Server thread/INFO]: System chat: Seller has made the advancement [Stone Age]
+[14:30:23] [Server thread/INFO]: System chat: [Rcon: Gave 32 [Cobblestone] to Seller]
+[14:30:23] [RCON Client /127.0.0.1 #21/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:23] [Server thread/INFO]: Seller issued server command: /market sell
+[14:30:25] [User Authenticator #10/INFO]: UUID of player Buyer is 95c805de-11ca-35c1-b023-d2cc3a373952
+[14:30:25] [Server thread/INFO]: System chat: Buyer joined the game
+[14:30:25] [Server thread/INFO]: Buyer[/127.0.0.1:55632] logged in with entity id 141 at ([minecraft:overworld]7.5, 81.0, 13.5)
+[14:30:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:25] [Server thread/INFO]: System chat: Buyer has made the advancement [Diamonds!]
+[14:30:25] [Server thread/INFO]: System chat: [Rcon: Gave 1000 [Diamond] to Buyer]
+[14:30:25] [RCON Client /127.0.0.1 #22/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:25] [Server thread/INFO]: Buyer issued server command: /market
+[14:31:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:10] [Server thread/INFO]: System chat: [Rcon: Teleported Buyer to 1000.500000, 65.000000, 1000.500000]
+[14:31:10] [RCON Client /127.0.0.1 #23/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:10] [Server thread/INFO]: Buyer issued server command: /market
+[14:31:12] [Server thread/INFO]: Buyer issued server command: /market pending
+[14:31:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:13] [Server thread/INFO]: System chat: Buyer has made the advancement [We Need to Go Deeper]
+[14:31:13] [Server thread/INFO]: System chat: [Rcon: Teleported Buyer to 168.500000, 70.000000, 168.500000]
+[14:31:13] [RCON Client /127.0.0.1 #24/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:37:09] [Server thread/INFO]: Buyer issued server command: /market pending
+[14:37:10] [Server thread/INFO]: System chat: Buyer has made the advancement [Stone Age]
+[14:37:10] [User Authenticator #11/INFO]: UUID of player Other is 1316d40c-a081-306e-9e27-70f5cb544c20
+[14:37:10] [Server thread/INFO]: System chat: Other joined the game
+[14:37:10] [Server thread/INFO]: Other[/127.0.0.1:56285] logged in with entity id 473 at ([minecraft:overworld]1.5, 90.0, 15.5)
+[14:37:11] [Server thread/INFO]: Other issued server command: /market
+[14:38:09] [Server thread/INFO]: Buyer issued server command: /market
+[14:38:11] [Server thread/INFO]: Owner issued server command: /market
+[14:38:13] [Server thread/INFO]: Owner issued server command: /market
+[14:39:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:14] [RCON Client /127.0.0.1 #25/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:14] [Server thread/INFO]: Owner issued server command: /market
+[14:39:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:16] [Server thread/INFO]: System chat: [Rcon: Gave 100 [Emerald] to Other]
+[14:39:16] [RCON Client /127.0.0.1 #26/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:16] [Server thread/INFO]: Other issued server command: /market
+[14:39:18] [Server thread/INFO]: Buyer issued server command: /market
+[14:39:19] [Server thread/INFO]: Other issued server command: /market
+[14:40:52] [Server thread/INFO]: Owner issued server command: /market
+[14:40:53] [Server thread/INFO]: Buyer issued server command: /market pending
+[14:40:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:54] [Server thread/INFO]: System chat: Other has made the advancement [We Need to Go Deeper]
+[14:40:54] [Server thread/INFO]: System chat: [Rcon: Teleported Other to 168.500000, 70.000000, 168.500000]
+[14:40:54] [RCON Client /127.0.0.1 #27/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:54] [Server thread/INFO]: Other issued server command: /market pending
+[14:40:55] [Server thread/INFO]: System chat: Other has made the advancement [Stone Age]
+[14:40:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:55] [Server thread/INFO]: System chat: [Rcon: Gave 1 [Diamond Sword] to Seller]
+[14:40:55] [RCON Client /127.0.0.1 #28/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:55] [Server thread/INFO]: System chat: [Rcon: Gave 1 [测试剑] to Seller]
+[14:40:55] [RCON Client /127.0.0.1 #29/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:55] [Server thread/INFO]: Seller issued server command: /market sell
+[14:42:13] [Server thread/INFO]: Buyer issued server command: /market
+[14:42:16] [Server thread/INFO]: Seller issued server command: /market my
+[14:42:17] [Server thread/INFO]: Seller issued server command: /market pending
+[14:42:29] [Server thread/INFO]: Buyer issued server command: /market pending
+[14:42:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:30] [RCON Client /127.0.0.1 #30/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:43:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:43:39] [RCON Client /127.0.0.1 #31/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:43:39] [Server thread/INFO]: Seller issued server command: /market my
+[14:43:57] [Server thread/INFO]: Seller issued server command: /market my
+[14:43:58] [Server thread/INFO]: Seller issued server command: /market pending
+[14:44:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:45] [RCON Client /127.0.0.1 #32/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:45] [RCON Client /127.0.0.1 #33/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:45] [RCON Client /127.0.0.1 #34/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:45] [RCON Client /127.0.0.1 #35/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:45] [Server thread/INFO]: System chat: [Rcon: Gave 1 [Barrier] to Seller]
+[14:44:45] [RCON Client /127.0.0.1 #36/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:45] [Server thread/INFO]: Seller issued server command: /market sell
+[14:44:47] [Server thread/INFO]: Seller issued server command: /market sell
+[14:44:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:48] [Server thread/INFO]: System chat: [Rcon: Marked chunk [0, 0] in minecraft:the_end to be force loaded]
+[14:44:48] [RCON Client /127.0.0.1 #37/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:49] [Server thread/INFO]: System chat: [Rcon: Successfully filled 256 block(s)]
+[14:44:49] [RCON Client /127.0.0.1 #38/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:44:49] [Server thread/INFO]: System chat: Owner has made the advancement [The End?]
+[14:44:49] [Server thread/INFO]: System chat: [Rcon: Teleported Owner to 8.500000, 70.000000, 8.500000]
+[14:44:49] [RCON Client /127.0.0.1 #39/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:44:49] [Server thread/INFO]: Owner issued server command: /market
+[14:44:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:44:50] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[14:46:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:46:18] [Server thread/INFO]: System chat: [Rcon: Gave 1 [Cobblestone] to Seller]
+[14:46:18] [RCON Client /127.0.0.1 #40/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:46:18] [Server thread/INFO]: Seller issued server command: /market sell
+[14:46:20] [Server thread/INFO]: Buyer issued server command: /market
+[14:46:21] [Server thread/INFO]: Other issued server command: /marketadmin setadmin Other
+[14:46:22] [Server thread/INFO]: Owner issued server command: /market admin
+[14:47:58] [Server thread/INFO]: Owner issued server command: /market admin
+[14:47:59] [Server thread/INFO]: Owner issued server command: /market admin
+[14:48:00] [Server thread/INFO]: Owner issued server command: /market admin
+[14:48:01] [Server thread/INFO]: Buyer issued server command: /market
+[14:48:02] [Server thread/INFO]: Seller issued server command: /market sell
+[14:49:17] [Server thread/INFO]: Owner lost connection: Disconnected
+[14:49:17] [Server thread/INFO]: System chat: Owner left the game
+[14:49:17] [Server thread/INFO]: Seller lost connection: Disconnected
+[14:49:17] [Server thread/INFO]: System chat: Seller left the game
+[14:49:17] [Server thread/INFO]: Buyer lost connection: Disconnected
+[14:49:17] [Server thread/INFO]: System chat: Buyer left the game
+[14:49:17] [Server thread/INFO]: Other lost connection: Disconnected
+[14:49:17] [Server thread/INFO]: System chat: Other left the game
+[14:49:28] [Server thread/INFO]: System chat: Stopping the server
+[14:49:28] [Server thread/INFO]: Stopping server
+[14:49:28] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.12.1
+[14:49:28] [Server thread/INFO]: [FreeMarket] Disabling FreeMarket v1.0.0
+[14:49:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.12.1
+[14:49:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[14:49:28] [Server thread/INFO]: Saving players
+[14:49:28] [Server thread/INFO]: Saving worlds
+[14:49:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:overworld
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saved 637 block chunks, 40 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.14s
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[14:49:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:the_nether
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saved 617 block chunks, 9 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.07s
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[14:49:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_smoke]'/minecraft:the_end
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Saved 739 block chunks, 361 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.08s
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[14:49:28] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[14:49:28] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[14:49:28] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[14:49:28] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[14:49:28] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

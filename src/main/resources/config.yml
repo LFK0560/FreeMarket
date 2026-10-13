@@ -1,0 +1,44 @@
+# 自由市场：修改后使用 /marketadmin reload；货币变更不换算现有余额。
+currency:
+  material: DIAMOND
+  allow-custom-nbt: false
+# 同一创建者只有一个市场，市场可包含三个维度的分散区块。
+market:
+  chunk-cost: 64.00
+  default-tax-percent: 5.00
+  max-chunks-per-owner: 0 # 零表示不限制，仍然逐区块收费。
+  allowed-environments: [NORMAL, NETHER, THE_END]
+listing:
+  default-duration-hours: 72
+  max-duration-hours: 168
+  category-duration-hours: {food: 24, enchanted_book: 48}
+  max-active-listings-default: 10
+  max-active-listings-by-group: {vip: 20, mvp: 40}
+  max-stack-amount: 64
+  cooldown-seconds: 3
+  block-currency: true
+price:
+  min-unit-price: 0.01
+  max-unit-price: 0 # 零表示无额外上限，仍受整数安全边界约束。
+  deviation-warn-percent: 300
+delivery:
+  delay-seconds: 10
+  expire-scan-seconds: 60
+blacklist:
+  enabled: true
+  materials: [BEDROCK, BARRIER, COMMAND_BLOCK, STRUCTURE_BLOCK, SPAWNER, DEBUG_STICK]
+  block-all-custom-nbt: false
+  block-unstackable: false
+chart:
+  points: 24
+  granularity: DAY
+  window-hours: 720
+  min-trades: 2
+  cache-seconds: 60
+  blocks: "▁▂▃▄▅▆▇█"
+storage: {file: market.db, keep-trade-days: 90}
+general:
+  page-size: 36
+  broadcast-new-listing: false
+  broadcast-trade: false
+  sound-enabled: true
